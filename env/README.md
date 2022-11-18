@@ -1,6 +1,6 @@
 # Elasticsearch
 
-This repository contains some essential files that can be used for start the Elasticsearch container, using Swarm.
+This repository contains some essential files that can be used for deploy the Elasticsearch container, using Swarm.
 
 ## Preparations
 
