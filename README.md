@@ -8,7 +8,7 @@ Rename the **env/elasticsearch.env_example** file to **env/elasticsearch.env** a
 
 ## Deploy
 
-To deploy the stack using Swarm, just follow the command bellow:
+To deploy the stack using Swarm, just follow the command below:
 
 ```shell
 docker stack deploy --compose-file docker-compose.yml elasticsearch
